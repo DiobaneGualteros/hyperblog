@@ -7,3 +7,6 @@ git status
 
 Parece buena gente
 Pero no lo es
+
+hoy es el jefe de ¨POS
+git status
