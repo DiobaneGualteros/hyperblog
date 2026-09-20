@@ -1,6 +1,10 @@
 body
 {
+<<<<<<< HEAD
     color: blue;
+=======
+    color: red;
+>>>>>>> 9df0a2b (Modifique cabecera y el color del texto)
     text-align: center;
     font-family: "Arial", Courier, monospace;
 
